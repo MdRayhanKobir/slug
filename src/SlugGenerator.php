@@ -1,6 +1,6 @@
 <?php
 
-namespace Rayhan\Slug;
+namespace RKSLUG\Slug;
 
 class SlugGenerator
 {

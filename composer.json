@@ -1,15 +1,13 @@
 {
-    "name": "rayhan/slug",
+    "name": "rkslug/slug",
     "description": "A simple Laravel package to generate slugs from strings",
     "type": "library",
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Rayhan\\Slug\\": "src/"
+            "RKSLUG\\Slug\\": "src/"
         }
     },
     "minimum-stability": "dev",
-    "prefer-stable": true,
     "require": {}
 }
-
