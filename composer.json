@@ -1,5 +1,5 @@
 {
-    "name": "Rayhan/slug",
+    "name": "rayhan/slug",
     "description": "A simple Laravel package to generate slugs from strings",
     "type": "library",
     "license": "MIT",
