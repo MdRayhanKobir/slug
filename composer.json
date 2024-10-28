@@ -1,0 +1,13 @@
+{
+    "name": "yourvendorname/slug",
+    "description": "A simple Laravel package to generate slugs from strings",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "YourVendorName\\Slug\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
